@@ -1,4 +1,4 @@
--- create user departments
+-- create user table
 CREATE TABLE USER (
     id uuid NOT NULL,
     name varchar(255),
